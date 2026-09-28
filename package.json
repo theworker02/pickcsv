@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/pickcsv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pick CSV/TSV csv tables for quick inspection and cleanup.",
+  "bin": {
+    "pickcsv": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/pickcsv.git"
+  },
+  "homepage": "https://theworker02.github.io/pickcsv/",
+  "keywords": [
+    "pick",
+    "csv",
+    "csv",
+    "cli",
+    "toolkit"
+  ]
+}
